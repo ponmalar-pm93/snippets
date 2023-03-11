@@ -1,6 +1,6 @@
 #  Pyramid pattern
 ## Path
-- File name : pyramid.js
+- File name : pramed.js
 - run : `node pramed.js`
 
 ## Code
